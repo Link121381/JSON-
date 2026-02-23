@@ -1,0 +1,5 @@
+{
+  "name": "Image Prompt Reverse Engineer",
+  "description": "Upload an image and generate a detailed JSON prompt to recreate it using Gemini AI.",
+  "requestFramePermissions": []
+}
